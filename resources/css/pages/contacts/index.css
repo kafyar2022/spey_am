@@ -9,6 +9,10 @@
   overflow: hidden;
 }
 
+.geography-info__container {
+  margin-bottom: 32px
+}
+
 .geography-info {
   display: flex;
   justify-content: space-between;
@@ -245,7 +249,3 @@
 }
 
 /*! adaptive end */
-
-.geography-info__container {
-  margin-bottom: 32px
-}

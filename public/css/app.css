@@ -2382,6 +2382,10 @@ input[type="search"]::-webkit-search-results-decoration {
   overflow: hidden;
 }
 
+.geography-info__container {
+  margin-bottom: 32px
+}
+
 .geography-info {
   display: flex;
   justify-content: space-between;
@@ -2618,10 +2622,6 @@ input[type="search"]::-webkit-search-results-decoration {
 }
 
 /*! adaptive end */
-
-.geography-info__container {
-  margin-bottom: 32px
-}
 
 .news-page {
     padding-bottom: 80px;
