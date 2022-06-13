@@ -88,7 +88,6 @@ class SitesSeeder extends Seeder
         'email' => 'info@spey.ge',
         'link' => 'https://spey.ge',
       ),
-      
       array(
         'id' => 7,
         'en_title' => 'Armenia',
